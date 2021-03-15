@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AbelRose
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate Google 
+- 📫 How to reach me 15941999082@163.com
 
 <!---
 AbelRose/AbelRose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
