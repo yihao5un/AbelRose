@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @AbelRose
+- 👋 Hi, I’m @yihao5un
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate Google 
-- 📫 How to reach me matrix.abelrose@gmail.com
+- 🌱 I’m currently learning LLM
+- 💞️ I’m looking to collaborate Accenture 
+- 📫 How to reach me matrix.yihao@outlook.com
 
-<!---
-AbelRose/AbelRose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![AbelRose's GitHub stats](https://github-readme-stats.vercel.app/api?username=abelrose&show_icons=true&theme=radical)
+![yihao5un's GitHub stats](https://github-readme-stats.vercel.app/api?username=yihao5un&show_icons=true&theme=radical)
